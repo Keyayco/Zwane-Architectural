@@ -1,0 +1,297 @@
+Create a premium, professional website for **Zwane Architectural and Engineering Solutions**, an architectural design and engineering business based in Mbombela, Mpumalanga, South Africa.
+
+BUSINESS DETAILS
+
+* Business name: Zwane Architectural and Engineering Solutions
+* Industry: Architectural Designer / Engineering Solutions
+* Phone: 079 158 5868
+* Address: Office G18, Caltex Building, 32 Bell St, Mbombela Central, Mbombela, 1200
+* Service area: Mbombela and surrounding Mpumalanga areas
+
+CORE WEBSITE GOAL
+
+Build a website that immediately makes Zwane Architectural and Engineering Solutions look like an established, credible professional practice.
+
+The website should communicate:
+
+* Architectural design expertise
+* Technical precision
+* Professional project planning
+* Engineering capability
+* Attention to detail
+* Practical, buildable solutions
+* A clear path for potential clients to request a consultation
+
+Do NOT make the website look like a generic construction company website. This is an architectural and engineering practice, so the visual identity should feel more sophisticated, technical, precise and design-led.
+
+DESIGN DIRECTION
+
+Create a premium architectural studio aesthetic inspired by modern South African architecture and high-end architectural portfolios.
+
+Visual characteristics:
+
+* Clean layouts
+* Strong architectural photography
+* Large typography
+* Generous whitespace
+* Geometric grid structures
+* Subtle technical/drafting-inspired details
+* Elegant transitions
+* Strong visual hierarchy
+* Sophisticated neutral colour palette
+* Dark charcoal / warm white / concrete grey with a restrained architectural accent colour
+* Avoid excessive bright colours
+* Avoid generic corporate stock imagery
+* Avoid the typical blue-gradient engineering website look
+* Avoid a cyber/tech aesthetic
+
+The site should feel like a combination of:
+
+* Architecture studio
+* Engineering consultancy
+* Professional project portfolio
+
+HOMEPAGE
+
+Create a striking hero section.
+
+Headline:
+"Designing Spaces. Engineering Possibilities."
+
+Supporting text:
+"Architectural and engineering solutions designed with precision, practicality and purpose."
+
+Primary CTA:
+"Request a Consultation"
+
+Secondary CTA:
+"Explore Our Services"
+
+Hero visual:
+Use a sophisticated architectural image or architectural rendering showing a contemporary South African building, architectural plans, or a professional design environment.
+
+Do not fabricate specific projects belonging to the company. If project photography is unavailable, use clearly generic architectural imagery or abstract architectural visuals rather than implying that stock images are company projects.
+
+INTRODUCTION SECTION
+
+Introduce Zwane Architectural and Engineering Solutions as a professional practice focused on delivering thoughtful architectural and engineering solutions.
+
+Suggested heading:
+"From Concept to Construction"
+
+Explain that the business combines design thinking with technical understanding to help clients move from an initial idea toward a practical, well-considered project.
+
+SERVICES SECTION
+
+Create a visually strong services grid.
+
+Include appropriate services such as:
+
+1. Architectural Design
+
+* Building concepts
+* Architectural planning
+* Design development
+* Residential and commercial design
+
+2. Building Plans
+
+* Professional building-plan preparation
+* Planning documentation
+* Submission-ready documentation where applicable
+
+3. Engineering Solutions
+
+* Technical engineering support
+* Structural/engineering coordination where applicable
+* Practical project solutions
+
+4. Project Planning
+
+* Early-stage project consultation
+* Design coordination
+* Development planning
+
+5. Design Consultation
+
+* Initial project discussions
+* Site and project requirements
+* Design direction
+* Feasibility discussions
+
+IMPORTANT:
+Do not claim professional registrations, certifications, qualifications, structural engineering specialisations, municipal approvals, or services that have not been confirmed.
+
+Where a service requires a specific professional registration or specialist appointment, phrase the service carefully rather than making an unsupported claim.
+
+WHY CHOOSE US
+
+Create a section focused on the qualities a client would expect from an architectural and engineering practice.
+
+Use points such as:
+
+* Precision-driven design
+* Practical solutions
+* Client-focused approach
+* Attention to detail
+* Professional project communication
+* Design and technical thinking working together
+
+Keep these claims general and credible. Do not invent awards, years of experience, completed projects or professional affiliations.
+
+PROCESS SECTION
+
+Create a clean visual 4-step process:
+
+01 — Consultation
+Understand the client's requirements, site and project goals.
+
+02 — Concept
+Develop an initial architectural direction based on the project's needs.
+
+03 — Development
+Refine the design and coordinate the necessary technical considerations.
+
+04 — Delivery
+Prepare the relevant documentation and support the project through the next stage.
+
+Make clear that the exact process varies depending on the project and required professional services.
+
+PORTFOLIO / PROJECTS SECTION
+
+Create a premium portfolio section designed to accommodate real projects when they become available.
+
+Use categories such as:
+
+* Residential
+* Commercial
+* Architectural Concepts
+* Technical Design
+
+IMPORTANT:
+Do not invent project names, clients, locations or completed work.
+
+If no verified project portfolio is available, create visually impressive placeholder project cards using generic architectural imagery and label them clearly as examples/concepts rather than completed Zwane projects.
+
+ABOUT SECTION
+
+Heading:
+"Built Around Better Ideas"
+
+Write a concise professional introduction explaining that Zwane Architectural and Engineering Solutions provides architectural and engineering-oriented design solutions with an emphasis on thoughtful planning, technical detail and practical outcomes.
+
+Do not invent a founding date, staff members, qualifications, awards or company history.
+
+CONTACT SECTION
+
+Create a strong conversion-focused contact section.
+
+Heading:
+"Let's Discuss Your Project"
+
+Include:
+
+* Phone: 079 158 5868
+* Location: Office G18, Caltex Building, 32 Bell St, Mbombela Central, Mbombela, 1200
+
+Primary CTA:
+"Call 079 158 5868"
+
+Secondary CTA:
+"Request a Consultation"
+
+Add a simple enquiry form with:
+
+* Name
+* Phone
+* Email
+* Project type
+* Brief project description
+* Preferred contact method
+* Submit button
+
+FOOTER
+
+Include:
+Zwane Architectural and Engineering Solutions
+
+Architectural Design | Engineering Solutions
+
+Mbombela, Mpumalanga
+
+079 158 5868
+
+Add navigation links:
+Home
+Services
+About
+Projects
+Contact
+
+MOBILE EXPERIENCE
+
+The website must be exceptionally responsive and polished on mobile.
+
+Prioritise:
+
+* Fast loading
+* Large readable typography
+* Comfortable tap targets
+* Simple navigation
+* Click-to-call phone number
+* No horizontal scrolling
+* Optimised image sizes
+* Smooth but lightweight animations
+
+ANIMATION
+
+Use tasteful Awwwards-inspired motion without making the site distracting.
+
+Include:
+
+* Smooth hero entrance
+* Image reveal animations
+* Subtle scroll-based movement
+* Service-card hover effects
+* Smooth section transitions
+* Elegant button interactions
+* Subtle page-load animation
+
+Animations should communicate sophistication, not technology for its own sake.
+
+SEO
+
+Optimise the page naturally for searches around:
+
+"architectural designer Mbombela"
+"architectural design Mbombela"
+"architectural services Mbombela"
+"building plans Mbombela"
+"engineering solutions Mbombela"
+"architectural designer Mpumalanga"
+"architectural services Mpumalanga"
+
+Use proper semantic HTML, descriptive page titles, meta descriptions, headings and image alt text.
+
+TECHNICAL REQUIREMENTS
+
+Build the website using:
+
+* Vanilla HTML
+* Vanilla CSS
+* Vanilla JavaScript
+
+Do NOT use:
+
+* React
+* TypeScript
+* Vite
+* shadcn
+* unnecessary frameworks
+* complex dependencies
+
+Keep the code clean, portable and easy to edit.
+
+The final website should feel like a **premium architectural practice**, not a template.
+
+Most importantly, make the website visually impressive enough that when the business owner opens it, the value of having a professional online presence is immediately obvious.

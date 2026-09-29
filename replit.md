@@ -1,6 +1,6 @@
-# [Project name]
+# Zwane Architectural & Engineering Solutions
 
-_Replace the heading above with the project's name, and this line with one sentence describing what this app does for users._
+Premium single-page practice website for Zwane Architectural and Engineering Solutions in Mbombela, Mpumalanga.
 
 ## Run & Operate
 
@@ -22,23 +22,30 @@ _Replace the heading above with the project's name, and this line with one sente
 
 ## Where things live
 
-_Populate as you build — short repo map plus pointers to the source-of-truth file for DB schema, API contracts, theme files, etc._
+- `artifacts/zwane-architectural-website/index.html` — semantic page structure, SEO metadata, business copy, enquiry form, and navigation.
+- `artifacts/zwane-architectural-website/src/site.css` — portable visual system, responsive layout, abstract architectural visuals, and motion.
+- `artifacts/zwane-architectural-website/src/site.js` — menu, scroll/reveal behavior, concept filters, enquiry success state, and click-to-call support.
+- `artifacts/zwane-architectural-website/public/favicon.svg` — practice mark used for the browser icon.
 
 ## Architecture decisions
 
-_Populate as you build — non-obvious choices a reader couldn't infer from the code (3-5 bullets)._
+- The site is intentionally a static, single-page presentation build with no backend requirement.
+- The visual work is abstract architectural concept imagery and is labeled as generic reference material, not as completed Zwane projects.
+- The enquiry form provides a client-side success state until a real submission destination is confirmed.
+- The app stays portable and easy to edit with vanilla HTML, CSS, and JavaScript inside the hosted artifact shell.
 
 ## Product
 
-_Describe the high-level user-facing capabilities of this app once they exist._
+The site presents Zwane's architectural design, building-plan, engineering-oriented, project-planning, and design-consultation services; explains the practice approach and process; filters concept studies by category; and gives prospective clients direct phone and enquiry-form paths.
 
 ## User preferences
 
-_Populate as you build — explicit user instructions worth remembering across sessions._
+- Keep the site sophisticated, technical, precise, and design-led rather than resembling a generic construction website.
+- Do not claim unverified registrations, qualifications, awards, completed projects, or specialist services.
 
 ## Gotchas
 
-_Populate as you build — sharp edges, "always run X before Y" rules._
+- The artifact workflow injects `PORT` and `BASE_PATH`; direct Vite build commands need those values when run outside the workflow.
 
 ## Pointers
 

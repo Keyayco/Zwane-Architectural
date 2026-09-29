@@ -1,0 +1,28 @@
+kind = "web"
+previewPath = "/"
+title = "Zwane Architectural & Engineering Solutions"
+description = "A premium, design-led practice website for Zwane Architectural and Engineering Solutions in Mbombela, showcasing architectural design, engineering-oriented solutions, project planning, and consultation enquiries."
+version = "1.0.0"
+id = "artifacts/zwane-architectural-website"
+router = "path"
+
+[[services]]
+name = "web"
+paths = [ "/" ]
+localPort = 18156
+
+[services.development]
+run = "pnpm --filter @workspace/zwane-architectural-website run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/zwane-architectural-website", "run", "build" ]
+serve = "static"
+publicDir = "artifacts/zwane-architectural-website/dist/public"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "18156"
+BASE_PATH = "/"
