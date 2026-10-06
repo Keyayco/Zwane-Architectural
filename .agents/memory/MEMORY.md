@@ -1,1 +1,2 @@
 - [Zwane website implementation](zwane-website.md) — static vanilla presentation build is intentional; generic concept imagery must remain clearly labeled.
+- [GitHub push authentication](github-push-auth.md) — keep credentials in Replit Secrets; Git errors can echo malformed secret values.
