@@ -1,5 +1,3 @@
-import './site.css';
-
 const header = document.querySelector('[data-header]');
 const menuToggle = document.querySelector('.menu-toggle');
 const navigation = document.querySelector('.primary-nav');

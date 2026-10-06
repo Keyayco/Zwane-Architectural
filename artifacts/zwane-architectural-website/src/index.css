@@ -1,3 +1,0 @@
-/* The static landing page is styled from site.css. This import keeps the
-   existing Vite shell safe if the React entry is used by another workflow. */
-@import './site.css';
